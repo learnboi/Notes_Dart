@@ -1,0 +1,41 @@
+🔤 Dart String Practice Questions
+
+Count consonants in a string
+
+Count uppercase letters
+
+Count lowercase letters
+
+Count digits in a string
+
+Count special characters
+
+Reverse a string (without using reversed)
+
+Check palindrome string
+
+Check if two strings are anagrams
+
+Remove vowels from a string
+
+Replace all spaces with _
+
+Find first non-repeating character
+
+Find most frequent character
+
+Count frequency of each character
+
+Remove duplicate characters
+
+Find longest word in a sentence
+
+Capitalize first letter of each word
+
+Convert string to title case
+
+Check if string contains only digits
+
+Remove extra spaces from a string
+
+Count words without using split()
